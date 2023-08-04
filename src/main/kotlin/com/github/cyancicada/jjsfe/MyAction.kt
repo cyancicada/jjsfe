@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.cyancicada.jjsfe
 
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
